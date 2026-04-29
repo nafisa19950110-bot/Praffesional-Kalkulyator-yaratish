@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Kalkulyator yaratish\Kalkulyator yaratish\bin\Debug\Kalkulyator yaratish.exe.config
+C:\Users\user\source\repos\Kalkulyator yaratish\Kalkulyator yaratish\bin\Debug\Kalkulyator yaratish.exe
+C:\Users\user\source\repos\Kalkulyator yaratish\Kalkulyator yaratish\bin\Debug\Kalkulyator yaratish.pdb
+C:\Users\user\source\repos\Kalkulyator yaratish\Kalkulyator yaratish\obj\Debug\Kalkulyator yaratish.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Kalkulyator yaratish\Kalkulyator yaratish\obj\Debug\Kalkulyator_yaratish.Form1.resources
+C:\Users\user\source\repos\Kalkulyator yaratish\Kalkulyator yaratish\obj\Debug\Kalkulyator_yaratish.Properties.Resources.resources
+C:\Users\user\source\repos\Kalkulyator yaratish\Kalkulyator yaratish\obj\Debug\Kalkulyator yaratish.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Kalkulyator yaratish\Kalkulyator yaratish\obj\Debug\Kalkulyator yaratish.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Kalkulyator yaratish\Kalkulyator yaratish\obj\Debug\Kalkulyator yaratish.exe
+C:\Users\user\source\repos\Kalkulyator yaratish\Kalkulyator yaratish\obj\Debug\Kalkulyator yaratish.pdb
